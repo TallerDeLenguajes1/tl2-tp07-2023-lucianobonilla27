@@ -31,3 +31,4 @@ C:\Users\Luciano\Desktop\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\ref
 C:\Users\Luciano\Desktop\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\Tp7.pdb
 C:\Users\Luciano\Desktop\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\Tp7.genruntimeconfig.cache
 C:\Users\Luciano\Desktop\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\ref\Tp7.dll
+C:\Users\Luciano\Desktop\tl2-tp07-2023-lucianobonilla27\tp7\bin\Debug\net7.0\Models\tareas.json

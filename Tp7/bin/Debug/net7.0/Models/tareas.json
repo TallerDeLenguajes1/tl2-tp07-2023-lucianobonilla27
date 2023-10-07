@@ -1,0 +1,20 @@
+[
+    {
+        "Id": 1,
+        "Titulo": "Hacer la compra",
+        "Descripcion": "Comprar víveres para la semana",
+        "Estado": "Pendiente"
+    },
+    {
+        "Id": 2,
+        "Titulo": "Estudiar programación",
+        "Descripcion": "Repasar los conceptos de C#",
+        "Estado": "EnProgreso"
+    },
+    {
+        "Id": 3,
+        "Titulo": "Ir al gimnasio",
+        "Descripcion": "Hacer ejercicio durante una hora",
+        "Estado": "Completada"
+    }
+]
