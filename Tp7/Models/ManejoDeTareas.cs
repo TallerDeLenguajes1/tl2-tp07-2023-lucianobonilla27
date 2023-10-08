@@ -8,48 +8,84 @@ namespace Tp7.Models
 {
     public class ManejoDeTareas
     {
-        private AccesoADatos accesoADatos = new();
-        private List<Tarea> listaTareas = new();
+        private int autonumerico;
+        private AccesoADatos accesoADatos;
+        private List<Tarea> listaTareas;
 
         public ManejoDeTareas(){
+            accesoADatos = new AccesoADatos();
             listaTareas = accesoADatos.Obtener();
+            int mayor=0;
+            if (listaTareas != null)
+            {
+                foreach (var tarea in listaTareas)
+                {
+                    if (tarea.Id > mayor)
+                    {
+                        mayor = tarea.Id;
+                    }
+                }
+                autonumerico = mayor;
+            }else
+            {
+                autonumerico = 0;
+            }
         }
-        public void CrearTarea(Tarea nueva){
-            listaTareas = accesoADatos.Obtener();
-            listaTareas.Add(nueva);
-            accesoADatos.Guardar(listaTareas);
-            
+        public bool CrearTarea(Tarea nueva)
+        {
+            try
+            {
+                autonumerico++;
+                nueva.Id = autonumerico;
+                listaTareas.Add(nueva);
+                accesoADatos.Guardar(listaTareas);
+                return true; // Indica que la tarea se creó exitosamente
+            }
+            catch (Exception)
+            {
+                return false; // Indica que hubo un error al crear la tarea
+            }
         }
 
         public Tarea ObtenerTarea(int id){
-            listaTareas = accesoADatos.Obtener();
             Tarea tareaBuscada = listaTareas.FirstOrDefault(tarea => tarea.Id == id);
             return tareaBuscada;
         }
 
-        public void ActualizarTarea(int id,Tarea nueva){
-            listaTareas = accesoADatos.Obtener();
-            Tarea tareaBuscada = listaTareas.FirstOrDefault(tarea => tarea.Id == id);
-            tareaBuscada = nueva;
-            accesoADatos.Guardar(listaTareas);
-
+        public bool ActualizarTarea(Tarea tareaActualizada)
+        {
+            Tarea tareaExistente = listaTareas.FirstOrDefault(t => t.Id == tareaActualizada.Id);
+            if (tareaExistente != null)
+            {
+                tareaExistente.Titulo = tareaActualizada.Titulo;
+                tareaExistente.Descripcion = tareaActualizada.Descripcion;
+                tareaExistente.Estado = tareaActualizada.Estado;
+                accesoADatos.Guardar(listaTareas);
+                return true;
+            }else
+            {
+                return false;
+            }
         }
-        public void EliminarTarea(int id){
-            listaTareas = accesoADatos.Obtener();
-            Tarea tareaBuscada = listaTareas.FirstOrDefault(tarea => tarea.Id == id);
-            listaTareas.Remove(tareaBuscada);
-            accesoADatos.Guardar(listaTareas);
-
-            
+        public bool EliminarTarea(int id){
+            Tarea tareaExistente = listaTareas.FirstOrDefault(t => t.Id == id);
+            if (tareaExistente != null)
+            {
+                listaTareas.Remove(tareaExistente);
+                accesoADatos.Guardar(listaTareas);
+                return true;
+            }else
+            {
+                return false;
+            }
+                
         }
 
         public List<Tarea> GetTareas(){
-            listaTareas = accesoADatos.Obtener();
             return listaTareas;
         }
 
         public List<Tarea> GetTareasCompletadas(){
-            listaTareas = accesoADatos.Obtener();
             List<Tarea> completadas = new();
             foreach (var tarea in listaTareas)
             {
@@ -60,5 +96,7 @@ namespace Tp7.Models
             }
             return completadas;
         }
+
+        
     }
 }

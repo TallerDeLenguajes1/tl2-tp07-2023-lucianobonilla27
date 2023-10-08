@@ -32,3 +32,37 @@ C:\Users\Luciano\Desktop\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\Tp7
 C:\Users\Luciano\Desktop\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\Tp7.genruntimeconfig.cache
 C:\Users\Luciano\Desktop\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\ref\Tp7.dll
 C:\Users\Luciano\Desktop\tl2-tp07-2023-lucianobonilla27\tp7\bin\Debug\net7.0\Models\tareas.json
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\bin\Debug\net7.0\appsettings.json
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\bin\Debug\net7.0\Models\tareas.json
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\bin\Debug\net7.0\Tp7.exe
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\bin\Debug\net7.0\Tp7.deps.json
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\bin\Debug\net7.0\Tp7.runtimeconfig.json
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\bin\Debug\net7.0\Tp7.dll
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\bin\Debug\net7.0\Tp7.pdb
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\Tp7.csproj.AssemblyReference.cache
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\Tp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\Tp7.AssemblyInfoInputs.cache
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\Tp7.AssemblyInfo.cs
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\Tp7.csproj.CoreCompileInputs.cache
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\Tp7.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\Tp7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\staticwebassets\msbuild.Tp7.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\staticwebassets\msbuild.build.Tp7.props
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tp7.props
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tp7.props
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\scopedcss\bundle\Tp7.styles.css
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\Tp7.csproj.CopyComplete
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\Tp7.dll
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\refint\Tp7.dll
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\Tp7.pdb
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\Tp7.genruntimeconfig.cache
+C:\Users\BONILLA\Desktop\Segundo año\Segundo Cuatrimestre\Taller De Lenguaje II\tps\tp6\tl2-tp07-2023-lucianobonilla27\tp7\obj\Debug\net7.0\ref\Tp7.dll

@@ -1,20 +1,26 @@
 [
-    {
-        "Id": 1,
-        "Titulo": "Hacer la compra",
-        "Descripcion": "Comprar víveres para la semana",
-        "Estado": "Pendiente"
-    },
-    {
-        "Id": 2,
-        "Titulo": "Estudiar programación",
-        "Descripcion": "Repasar los conceptos de C#",
-        "Estado": "EnProgreso"
-    },
-    {
-        "Id": 3,
-        "Titulo": "Ir al gimnasio",
-        "Descripcion": "Hacer ejercicio durante una hora",
-        "Estado": "Completada"
-    }
+  {
+    "Id": 1,
+    "Titulo": "hacer compra semanal",
+    "Descripcion": "arroz,fideo,leche",
+    "Estado": "Completada"
+  },
+  {
+    "Id": 3,
+    "Titulo": "Ir al gimnasio",
+    "Descripcion": "Hacer ejercicio durante una hora",
+    "Estado": "Completada"
+  },
+  {
+    "Id": 4,
+    "Titulo": "Estudiar PyE",
+    "Descripcion": "Los nuevos teoremas",
+    "Estado": "Pendiente"
+  },
+  {
+    "Id": 5,
+    "Titulo": "Lavar auto",
+    "Descripcion": "limpiado y aspirado",
+    "Estado": "Completada"
+  }
 ]
